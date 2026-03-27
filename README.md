@@ -43,8 +43,12 @@ Abaixo estão algumas das tecnologias e metodologias que domino e utilizo:
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Liinformatica&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Liinformatica&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Liinformatica&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liinformatica&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
