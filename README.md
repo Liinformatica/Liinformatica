@@ -20,6 +20,13 @@ Trabalho como **Analista de Suporte de Infraestrutura** e venho me especializand
 
 Abaixo estão algumas das tecnologias e metodologias que domino e utilizo:
 
+### 🔧 Hardware & Suporte Especializado
+Domínio completo em manutenção e otimização de ativos:
+- **Manutenção de Desktops e Notebooks:** Diagnóstico avançado e reparo de hardware.
+- **Upgrades de Performance:** Implementação de SSDs NVMe, expansão de memória e otimização térmica.
+- **Otimização de Sistemas:** Ajustes finos de OS para máxima performance em produtividade e **Gaming**.
+- **Suporte Remoto & Presencial:** Atendimento de alta complexidade seguindo metodologia **ITIL**.
+
 ### Infraestrutura, Redes e Monitoramento
 ![Redes](https://img.shields.io/badge/Networking-%23333333.svg?style=flat&logo=unifi&logoColor=white)
 ![Data Center](https://img.shields.io/badge/Data%20Center-%23F0DB4F.svg?style=flat&logo=cisco&logoColor=black)
@@ -41,14 +48,23 @@ Abaixo estão algumas das tecnologias e metodologias que domino e utilizo:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos em Destaque
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liinformatica&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liinformatica&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+### 💻 [Em Desenvolvimento] Sistema de Gestão de Ativos (Ativos)
+Sistema robusto para controle de inventário de hardware e software.
+- **Stack:** Python, Flask, SQLite, HTML, CSS.
+- **Foco:** Gerar termos de responsabilidade em PDF e controle de movimentação de equipamentos.
+
+### 🎫 [Em Desenvolvimento] Sistema de Chamados (Service Desk)
+Ferramenta para gestão de tickets e suporte técnico.
+- **Stack:** Python, Flask, SQlite, HTML, CSS.
+- **Foco:** Otimização do tempo de resposta e organização de demandas de infraestrutura.
+
+---
+
+## 🎯 Foco de Carreira
+Meu objetivo atual é unir a sólida experiência em **Infraestrutura e Redes** com as facilidades do **Cloud e Automação**. Acredito que a tecnologia deve ser a ponte para viabilizar recursos estratégicos para a área de negócios, sempre priorizando a **Segurança da Informação** e a **Monitoria proativa** (Zabbix/Grafana).
+
 
 ---
 
