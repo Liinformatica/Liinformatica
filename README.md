@@ -12,6 +12,7 @@ Trabalho como **Analista de Suporte de Infraestrutura** e venho me especializand
 - 🎓 **Pós-graduado** em Computação em Nuvem e Data Center.
 - 🏗️ Fundador da **LI Informática**.
 - 🛠️ Atualmente desenvolvendo sistemas de gestão com **Python (Flask)** e **SQLite**, com experiência em servidores VPS e serviços na Oracle Cloud, AWS.
+- 🕹️ **Gamer Enthusiast:** Interessado na interseção entre alto desempenho de hardware e experiência de jogo.
 - 🎯 **Objetivo:** Utilizar meu conhecimento em Redes, Cloud e Desenvolvimento para viabilizar cada vez mais recursos para a área de negócios, com foco em monitoramento e segurança.
 
 ---
