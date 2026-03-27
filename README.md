@@ -1,5 +1,7 @@
 # Olá, sou o Leonardo! 👋
 
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 Analista de Suporte de Infraestrutura com 8 anos de experiência em ambientes corporativos de grande porte. Profissional focado em alinhar tecnologia com as necessidades de negócios, garantindo desempenho, disponibilidade e segurança da informação.
 
 ---
