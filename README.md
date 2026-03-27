@@ -76,3 +76,9 @@ Meu objetivo atual é unir a sólida experiência em **Infraestrutura e Redes** 
 Se você está procurando soluções que unam infraestrutura sólida, nuvem moderna e desenvolvimento focado em resultados, entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-jorge-833037158?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
